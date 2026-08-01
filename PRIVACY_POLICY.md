@@ -98,7 +98,7 @@ take effect constitutes acceptance of the revised policy.
 Questions about this policy or the Extension's data practices can be sent to:
 
 - Email: **prashant.cse2007@gmail.com**
-- Support / issues: **https://github.com/your-username/chartink-tradingview-pro/issues**
+- Support / issues: **https://github.com/pmandroid/Chartink-TradingView-Pro/issues**
 
 ---
 
